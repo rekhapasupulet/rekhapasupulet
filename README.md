@@ -9,7 +9,7 @@
 <p align="center">My name is Rekha and welcome to my github profile</p>
 
 
-<img align="left" src="svg/givingback.svg" height="222px"/>
+<img align="left" src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/447372ef1129a8c0da73734fcdabd22b69a70751/givingback.svg" height="222px"/>
 
 ```csharp
     Human Information
