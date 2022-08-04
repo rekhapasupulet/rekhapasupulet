@@ -2,7 +2,7 @@
 ![gif](https://assets.vogue.com/photos/5a70c28c40fecd28eccef487/master/pass/1.gif)
 
 <p align="center">
-    <img src="svg/inspiration.svg" width="480px"/>
+    <img src="https://assets.vogue.com/photos/5a70c28c40fecd28eccef487/master/pass/1.gif" width="480px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
