@@ -56,7 +56,7 @@
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
+    <img src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/301c8838546e67f3177bcbd77b544eb8f32e75fd/artificialintelligence.svg" height="225px"/>
 </div>
 
 <br>
