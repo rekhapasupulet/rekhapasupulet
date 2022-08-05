@@ -24,8 +24,8 @@
     <table align="left">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="icons/csharp.png" width="65px"/>
-                <br /> C#
+                <img src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/a9f674ac6c7e5af35c3ac973df2a7f35d56a5119/Docker.svg" width="65px"/>
+                <br /> Docker
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/java.png" width="65px"/>
