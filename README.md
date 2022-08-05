@@ -1,6 +1,6 @@
 
 <a href="#">
-<h3 align="center">Hi there, Welcome to my Github. I'm Rekha</h3>
+<h3 align="center">Hi There, Welcome to my Github. I'm Rekha</h3>
 <p align="center">
 <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif" /></a>
 </p>
