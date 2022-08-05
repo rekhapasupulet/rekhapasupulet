@@ -2,11 +2,8 @@
 <h2 align="center">Hi There</h2>
 <p align="center">Welcome to my github profile</p>
 
-<img align="centre" alt="GIF" src="https://media1.giphy.com/media/MdumZ80HICN3LIgzEK/giphy.gif" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/MdumZ80HICN3LIgzEK/giphy.gif" />
 
-- 🤔 Looking for help with Data Structures and Algorithms 😭
-- 🥅 coding automation projects ⚡
-- 🔭 I’m currently working on Open source projects and hackathons ⚡
 
 <br />
 <br />
