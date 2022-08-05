@@ -8,11 +8,13 @@
 <h1 align = "center"> Projects that not only add value to the company but also enhance the lives of consumers or clients inspire me :)</h1>
 
 ### Things I love ❤️
+- Analytics
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Artificial Intelligence 
+- AI 
 - Machine Learning 
 - Data Science 
 - Big Data 
+- NLP
 
 ### Hobbies
 - Photography <img src="https://media0.giphy.com/media/Ma1WXZW1Rl4mCsGa2l/giphy.gif" width="50"> **[Click here](https://vsco.co/rekhs99/gallery)**
