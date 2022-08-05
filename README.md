@@ -1,13 +1,8 @@
 
-![gif](https://assets.vogue.com/photos/5a70c28c40fecd28eccef487/master/pass/1.gif)
-
-<p align="center">
-    <img src="https://assets.vogue.com/photos/5a70c28c40fecd28eccef487/master/pass/1.gif" width="480px"/>
-</p>
-
 <h2 align="center">Hi There</h2>
 <p align="center">My name is Rekha and welcome to my github profile</p>
 
+![gif](https://assets.vogue.com/photos/5a70c28c40fecd28eccef487/master/pass/1.gif)
 
 <img align="left" src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/447372ef1129a8c0da73734fcdabd22b69a70751/givingback.svg" height="222px"/>
 
