@@ -1,23 +1,21 @@
 
 <h2 align="center">Hi There</h2>
-<p align="center">My name is Rekha and welcome to my github profile</p>
+<p align="center">Welcome to my github profile</p>
 
-![gif](https://assets.vogue.com/photos/5a70c28c40fecd28eccef487/master/pass/1.gif)
+<img align="centre" alt="GIF" src="https://media1.giphy.com/media/MdumZ80HICN3LIgzEK/giphy.gif" />
 
-<img align="left" src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/447372ef1129a8c0da73734fcdabd22b69a70751/givingback.svg" height="222px"/>
+- 🤔 Looking for help with Data Structures and Algorithms 😭
+- 🥅 coding automation projects ⚡
+- 🔭 I’m currently working on Open source projects and hackathons ⚡
 
-```csharp
-    Human Information
-    ------------------------------------------
-    Name: Rekha
-    Lastname: Pasupuleti
-    Nickname: Reks
-    Gender: Female
-    Age: 24
-    Hobbies: ["Photography"], ["Coding"], ["Cooking"], ["Music"], ["Gym"]
-    Languages: ["English"], ["Telugu"], ["Hindi"], ["Tamil"], ["Kannada"]
-```
+<br />
+<br />
 
+
+
+
+
+    
 ### Languages and Tools: 
 <img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/c9a495b1fa16582af2513da0fb6233d7f924885f/Python-Dark.svg" />
 <img align="left" alt="SQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -43,7 +41,7 @@
 <img align="left" alt="Visual Studio Code" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="sklearn" width="75px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/b3fe9b8a5316b1a89e3bed37c989121a52bb7db5/doc/logos/scikit-learn-logo-without-subtitle.svg" />
 <img align="left" alt="tableau" width="150px" src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" />
-<img align="left" alt="deep" width="100px" src="https://cdn-media-1.freecodecamp.org/images/1*1mpE6fsq5LNxH31xeTWi5w.jpeg" />
 
 <br><br>
 <br>
+[linkedin]: https://linkedin.com/in/rekhap12
