@@ -19,8 +19,7 @@
 - Cooking <img src="https://content.presentermedia.com/files/animsp/00016000/16208/chef_cooking_with_pan_lg_wm.gif" width="70">  
 - Gym <img src="https://media0.giphy.com/media/g0EOiPMZaqE8zIYvAM/giphy.gif?cid=6c09b9529e1385a1508f55a1d3f7b63ea61e9b98b9fceb3f&rid=giphy.gif&ct=s" width="100">
 
-
-
+</br>
 ### :zap: GitHub Stats
 <p>
     <a href="https://gitstats.me/rekhapasupulet" target="_blank"> 
