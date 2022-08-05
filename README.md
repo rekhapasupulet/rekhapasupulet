@@ -58,6 +58,8 @@
 <img align="left" alt="Visual Studio Code" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="sklearn" width="75px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/b3fe9b8a5316b1a89e3bed37c989121a52bb7db5/doc/logos/scikit-learn-logo-without-subtitle.svg" />
 <img align="left" alt="tableau" width="150px" src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" />
+<img align="left" alt="latex" width="60px" src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/9038e92e5a11af8e67b4636dcdb477ce3914adfa/LaTeX-Dark.svg" />
+
 
 <br><br>
 <br>
