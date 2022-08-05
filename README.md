@@ -35,11 +35,27 @@
                 <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="icons/postgresql.png" width="65px"/>
                 <br /> Postgresql
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="icons/python.png" width="65px"/>
