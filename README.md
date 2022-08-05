@@ -1,28 +1,27 @@
 
 <a href="#">
+<h3 align="center">Hi there, Welcome to my Github. I'm Rekha</h3>
 <p align="center">
 <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif" /></a>
 </p>
-<h1 align="center">Hi there, Welcome to my github. I'm Rekha</h1>
 
-## Projects that not only add value to the company but also enhance the lives of consumers or clients inspire me :)
+<h1 align = "center"> Projects that not only add value to the company but also enhance the lives of consumers or clients inspire me :)</h1>
 
-### Things I love:
+### Things I love ❤️
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence 
 - Machine Learning 
 - Data Science 
 - Big Data 
 
-### Hobbies:
+### Hobbies
 - Photography <img src="https://media0.giphy.com/media/Ma1WXZW1Rl4mCsGa2l/giphy.gif" width="50"> **[Click here](https://vsco.co/rekhs99/gallery)**
 - Cooking <img src="https://content.presentermedia.com/files/animsp/00016000/16208/chef_cooking_with_pan_lg_wm.gif" width="70">  
 - Gym <img src="https://media0.giphy.com/media/g0EOiPMZaqE8zIYvAM/giphy.gif?cid=6c09b9529e1385a1508f55a1d3f7b63ea61e9b98b9fceb3f&rid=giphy.gif&ct=s" width="100">
-- 
 
 
 
-## :zap: GitHub Stats
+### :zap: GitHub Stats
 <p>
     <a href="https://gitstats.me/rekhapasupulet" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=rekhapasupulet&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
@@ -32,7 +31,7 @@
 
 
     
-## Languages and Tools: 
+### Languages and Tools: 
 <img align="left" alt="Python" width="75px" src="https://raw.githubusercontent.com/rekhapasupulet/rekhapasupulet/c9a495b1fa16582af2513da0fb6233d7f924885f/Python-Dark.svg" />
 <img align="left" alt="SQL" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="R" width="75px" src="https://user-images.githubusercontent.com/31332352/119156284-1510a980-ba22-11eb-93ae-351e530b230c.jpg" />
@@ -63,9 +62,7 @@
 
 
 
-## Connect with me:
+### Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/rekhap12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rekhs_p/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-Reach me **rekhabjc@gmail.com**
