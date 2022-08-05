@@ -20,6 +20,7 @@
 - Gym <img src="https://media0.giphy.com/media/g0EOiPMZaqE8zIYvAM/giphy.gif?cid=6c09b9529e1385a1508f55a1d3f7b63ea61e9b98b9fceb3f&rid=giphy.gif&ct=s" width="100">
 
 </br>
+
 ### :zap: GitHub Stats
 <p>
     <a href="https://gitstats.me/rekhapasupulet" target="_blank"> 
@@ -27,7 +28,7 @@
     </a>
 </p>
 
-
+</br>
 
     
 ### Languages and Tools: 
@@ -59,7 +60,7 @@
 <br><br>
 <br>
 
-
+</br>
 
 ### Connect with me:
 <p align="left">
