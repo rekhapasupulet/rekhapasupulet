@@ -9,12 +9,12 @@
 
 ### Things I love ❤️
 - Analytics
+- Excel
+- Tableau
+- SQL
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- AI 
-- Machine Learning 
-- Data Science 
+- Machine Learning  
 - Big Data 
-- NLP
 
 ### Hobbies
 - Photography <img src="https://media0.giphy.com/media/Ma1WXZW1Rl4mCsGa2l/giphy.gif" width="50"> **[Click here](https://vsco.co/rekhs99/gallery)**
