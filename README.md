@@ -69,6 +69,6 @@
 ### Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/rekhap12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/rekhs_p/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/rekhsinsta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </br>
 📩 rekhabjc@gmail.com
