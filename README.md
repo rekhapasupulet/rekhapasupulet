@@ -1,16 +1,16 @@
 
 <a href="#">
-<h3 align="center">Hi There, Welcome to my Github. I'm Rekha</h3>
+<h3 align="center">Hi There, Welcome to my Github.</h3>
 <p align="center">
 <img  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif" /></a>
 </p>
 
-<h1 align = "center"> Projects that not only add value to the company but also enhance the lives of consumers or clients inspire me :)</h1>
+<h1 align = "center"> </h1>
 
 ### Things I love ❤️
+- Predictive Modelling
+- Data Science
 - Analytics
-- Excel
-- Tableau
 - SQL
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Machine Learning  
